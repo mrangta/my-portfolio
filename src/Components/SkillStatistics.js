@@ -24,7 +24,7 @@ class Statistics extends Component {
                 <div className="lbl">
                   happy clients
                 </div>
-                <div className="value">245</div>
+                <div className="value">30+</div>
               </div>
               <div className="icon">
                 <i className="fa fa-group"></i>
@@ -37,7 +37,7 @@ class Statistics extends Component {
                 <div className="lbl">
                   musics listened
                 </div>
-                <div className="value">135+</div>
+                <div className="value">800+</div>
               </div>
               <div className="icon">
                 <i className="fa fa-music"></i>
@@ -48,12 +48,12 @@ class Statistics extends Component {
             <div className="eq-dimensions stat-item">
               <div className="body">
                 <div className="lbl">
-                  beers drunk
+                  projects managed
                 </div>
-                <div className="value">150+</div>
+                <div className="value">40+</div>
               </div>
               <div className="icon">
-                <i className="fa fa-beer"></i>
+                <i className="fa fa-list"></i>
               </div>
             </div>
           </div>
@@ -63,7 +63,7 @@ class Statistics extends Component {
                 <div className="lbl">
                   coffee cups
                 </div>
-                <div className="value">500+</div>
+                <div className="value">900+</div>
               </div>
               <div className="icon">
                 <i className="fa fa-coffee"></i>
@@ -84,40 +84,40 @@ class Skills extends Component {
         <div className="row">
           <div className="col-xs-12 col-lg-6 ">
             <h3>designing skills</h3>
-            <div className="skill-item line wow fadeInUp" data-wow-delay="100ms" data-percent="75">
+            <div className="skill-item line wow fadeInUp" data-wow-delay="100ms" data-percent="90">
               <div className="skill-bar"><div className="bar"></div></div>
-              <label>photoshop</label>
+              <label>html</label>
             </div>
             <div className="skill-item line wow fadeInUp" data-wow-delay="200ms"  data-percent="85">
               <div className="skill-bar"><div className="bar"></div></div>
-              <label>illustrator</label>
+              <label>css</label>
             </div>
             <div className="skill-item line wow fadeInUp" data-wow-delay="300ms"  data-percent="60">
               <div className="skill-bar"><div className="bar"></div></div>
-              <label>3D max</label>
+              <label>javascript</label>
             </div>
-            <div className="skill-item line wow fadeInUp" data-wow-delay="400ms"  data-percent="90">
+            <div className="skill-item line wow fadeInUp" data-wow-delay="400ms"  data-percent="40">
               <div className="skill-bar"><div className="bar"></div></div>
-              <label>indesign</label>
+              <label>photoshop</label>
             </div>
           </div>
           <div className="col-xs-12 col-lg-6 ">
             <h3>development skills</h3>
-            <div className="skill-item line wow fadeInUp" data-wow-delay="100ms"  data-percent="35">
+            <div className="skill-item line wow fadeInUp" data-wow-delay="100ms"  data-percent="45">
               <div className="skill-bar"><div className="bar"></div></div>
-              <label>photoshop</label>
+              <label>ReactJS</label>
             </div>
-            <div className="skill-item line wow fadeInUp" data-wow-delay="200ms"  data-percent="15">
+            <div className="skill-item line wow fadeInUp" data-wow-delay="200ms"  data-percent="55">
               <div className="skill-bar"><div className="bar"></div></div>
-              <label>illustrator</label>
+              <label>C#</label>
             </div>
-            <div className="skill-item line wow fadeInUp" data-wow-delay="300ms"  data-percent="80">
+            <div className="skill-item line wow fadeInUp" data-wow-delay="300ms"  data-percent="20">
               <div className="skill-bar"><div className="bar"></div></div>
-              <label>3D max</label>
+              <label>Python</label>
             </div>
-            <div className="skill-item line wow fadeInUp" data-wow-delay="400ms"  data-percent="45">
+            <div className="skill-item line wow fadeInUp" data-wow-delay="400ms"  data-percent="30">
               <div className="skill-bar"><div className="bar"></div></div>
-              <label>indesign</label>
+              <label>Java</label>
             </div>
           </div>
         </div>
@@ -128,67 +128,56 @@ class Skills extends Component {
               <div className="skill-dots"><div className="prg"><span className="empty init"></span></div></div>
               <label>english</label>
             </div>
-            <div className="skill-item dotted wow fadeInUp" data-wow-delay="200ms" data-percent="65">
+            <div className="skill-item dotted wow fadeInUp" data-wow-delay="200ms" data-percent="25">
               <div className="skill-dots"><div className="prg"><span className="empty init"></span></div></div>
-              <label>chinese</label>
+              <label>Finnish</label>
             </div>
-            <div className="skill-item dotted wow fadeInUp" data-wow-delay="300ms" data-percent="90">
+            <div className="skill-item dotted wow fadeInUp" data-wow-delay="300ms" data-percent="99">
               <div className="skill-dots"><div className="prg"><span className="empty init"></span></div></div>
-              <label>german</label>
-            </div>
-            <div className="skill-item dotted wow fadeInUp" data-wow-delay="400ms"  data-percent="70">
-              <div className="skill-dots"><div className="prg"><span className="empty init"></span></div></div>
-              <label>arabic</label>
+              <label>Hindi</label>
             </div>
           </div>
           <div className="col-xs-12 col-lg-6 ">
             <h3>knowledge base</h3>
             <div className="row no-padding m-15-v">
+            <div className="col-xs-12 col-sm-4 no-padding wow fadeInUp" data-wow-delay="200ms">
+              <ul className="iconic-ul">
+                <li>
+                  <i className="fa fa-check-circle-o"></i>
+                  designing
+                </li>
+                <li>
+                  <i className="fa fa-check-circle-o"></i>
+                  development
+                </li>
+                <li>
+                  <i className="fa fa-check-circle-o"></i>
+                  graphics
+                </li>
+              </ul>
+            </div>
               <div className="col-xs-12 col-sm-4 no-padding wow fadeInUp" data-wow-delay="100ms">
                 <ul className="iconic-ul">
                   <li>
                     <i className="fa fa-check-circle-o"></i>
-                    designing
+                    agile project management
                   </li>
                   <li>
                     <i className="fa fa-check-circle-o"></i>
-                    development
+                    Client Handling
                   </li>
                   <li>
                     <i className="fa fa-check-circle-o"></i>
-                    graphics
+                    wireframe & annotation designing
                   </li>
-                  <li>
-                    <i className="fa fa-check-circle-o"></i>
-                    music theory
-                  </li>
-                </ul>
-              </div>
-              <div className="col-xs-12 col-sm-4 no-padding wow fadeInUp" data-wow-delay="200ms">
-                <ul className="iconic-ul">
-                  <li>
-                    <i className="fa fa-check-circle-o"></i>
-                    house keeping
-                  </li>
-                  <li>
-                    <i className="fa fa-check-circle-o"></i>
-                    computer
-                  </li>
-                  <li>
-                    <i className="fa fa-check-circle-o"></i>
-                    mathematics
-                  </li>
-                  <li>
-                    <i className="fa fa-check-circle-o"></i>
-                    physics
-                  </li>
+
                 </ul>
               </div>
               <div className="col-xs-12 col-sm-4 no-padding wow fadeInUp" data-wow-delay="300ms">
                 <ul className="iconic-ul">
                   <li>
                     <i className="fa fa-check-circle-o"></i>
-                    camping
+                    cricket
                   </li>
                   <li>
                     <i className="fa fa-check-circle-o"></i>
@@ -197,10 +186,6 @@ class Skills extends Component {
                   <li>
                     <i className="fa fa-check-circle-o"></i>
                     swimming
-                  </li>
-                  <li>
-                    <i className="fa fa-check-circle-o"></i>
-                    designing
                   </li>
                 </ul>
               </div>
