@@ -24,7 +24,7 @@ class About extends Component {
             <SkillStatistics/>
             <Testimonials/>
           </div>
-        </div>        
+        </div>
       </section>
     );
   }
@@ -40,7 +40,7 @@ export default About;
                <i className="fa fa-pencil"></i>
                <h3 className="uppercase">designing</h3>
              </div>
-             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dictum enim quis libero euismod, a pharetra justo fringilla. Cras ultricies eget quam quis rutrum. </p>
+             <p> I have a passion for producing high quality responsive websites.My design strengthens your company’s brand while ensuring ease of use and simplicity.</p>
            </div>
          </div>
          <div className="col-xs-12 col-md-3">
@@ -49,7 +49,7 @@ export default About;
                <i className="fa fa-code"></i>
                <h3 className="uppercase">development</h3>
              </div>
-             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dictum enim quis libero euismod, a pharetra justo fringilla. Cras ultricies eget quam quis rutrum. </p>
+             <p>I know how to create your website to run across devices using latest echnologies like Python, ReactJS. Let’s build something amazing together.</p>
            </div>
          </div>
          <div className="col-xs-12 col-md-3">
@@ -58,7 +58,7 @@ export default About;
                <i className="fa  fa-bullhorn"></i>
                <h3 className="uppercase">marketing</h3>
              </div>
-             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dictum enim quis libero euismod, a pharetra justo fringilla. Cras ultricies eget quam quis rutrum. </p>
+             <p>A solid social media communications and marketing strategy is a foundation to what I do for clients online. Expertise in paid and organic search marketing. </p>
            </div>
          </div>
          <div className="col-xs-12 col-md-3">
@@ -67,7 +67,7 @@ export default About;
                <i className="fa  fa-support"></i>
                <h3 className="uppercase">great support</h3>
              </div>
-             <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce dictum enim quis libero euismod, a pharetra justo fringilla. Cras ultricies eget quam quis rutrum. </p>
+             <p>I’m here to create meaningful and lasting relationships with my clients. Feel free to reach out to me if you have any queries, issues and need modifications.</p>
            </div>
          </div>
        </div>
