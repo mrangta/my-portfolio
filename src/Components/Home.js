@@ -28,7 +28,7 @@ class Navbar extends Component {
             <div className="line"></div>
           </div>
           <div className="nav-link-holder">
-            <a href="#blog">Blog</a>
+            <a href="https://monikarangta.wordpress.com/">Blog</a>
             <div className="line"></div>
           </div>
           <div className="nav-link-holder">
