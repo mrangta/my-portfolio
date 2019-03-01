@@ -11,7 +11,7 @@ class StickyNav extends Component {
         <li><a href="#home" title="Home"><span className="fa fa-home"></span></a></li>
         <li><a href="#about" title="About"><span className="fa fa-info"></span></a></li>
         <li><a href="#portfolio" title="Portfolio"><span className="fa fa-image"></span></a></li>
-        <li><a href="#blog" title="Blog"><span className="fa fa-pencil"></span></a></li>
+        <li><a href="https://monikarangta.wordpress.com/" title="Blog"><span className="fa fa-pencil"></span></a></li>
         <li><a href="#contact" title="Contact"><span className="fa fa-envelope"></span></a></li>
       </ul>
     </div>
