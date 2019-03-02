@@ -43,7 +43,7 @@ class ContactContent extends Component {
               <i className="fa fa-location-arrow"></i>
               <h3 className="uppercase inline">address</h3>
             </div>
-            <p>Helsinki, Finland</p>
+            <p className="text-center">Helsinki, Finland</p>
           </div>
         </div>
         <div className="col-xs-12 col-md-4">
@@ -52,7 +52,7 @@ class ContactContent extends Component {
               <i className="fa fa-phone"></i>
               <h3 className="uppercase inline">phone</h3>
             </div>
-            <p>
+            <p className="text-center">
               +358 451686586
             </p>
           </div>
@@ -63,7 +63,7 @@ class ContactContent extends Component {
               <i className="fa  fa-envelope"></i>
               <h3 className="uppercase inline">email</h3>
             </div>
-            <p className="">
+            <p className="text-center">
               <a href="mailto:monikarangta@icloud.com">monikarangta@icloud.com</a>
             </p>
           </div>

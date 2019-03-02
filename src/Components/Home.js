@@ -71,8 +71,10 @@ class HomeContent extends Component {
             If you have a project that you want to get started, think you need my help with something or just fancy saying hey, then get in touch.
           </p>
           <br/>
-          <a id="hire-link" href="#contact" className="le-btn outline capital">Hire me <i className="fa fa-laptop"></i></a>&nbsp;
-          <a href="./doc/monika.rangta.CV.pdf" rel="noopener noreferrer" target="_blank"  className="le-btn filled capital">Download CV <i className="fa fa-download"></i></a>
+          <div className="text-center">
+            <a id="hire-link" href="#contact" className="le-btn outline capital">Hire me <i className="fa fa-laptop"></i></a>&nbsp;
+            <a href="./doc/monika.rangta.CV.pdf" rel="noopener noreferrer" target="_blank"  className="le-btn filled capital">Download CV <i className="fa fa-download"></i></a>
+          </div>
         </div>
       </div>
     );
