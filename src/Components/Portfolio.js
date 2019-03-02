@@ -18,107 +18,30 @@ class Portfolio extends Component {
             <div id="filters" className="group-selectors">
               <a className="active" href="#all"   data-filter="*">all</a>
               <a  href="#graphic" data-filter=".graphic">graphic</a>
-              <a  href="#mobile" data-filter=".mobile">mobile</a>
               <a  href="#website" data-filter=".website">website</a>
+              <a  href="#mobile" data-filter=".mobile">mobile</a>
             </div>
             <div id="portfolio-grid">
-              <div className="portfolio-item website">
-                <a data-rel="prettyPhoto" href="http://placehold.it/1140x550" >
-                  <div className="hover">
-                    <div className="title">
-                      title goes here
-                    </div>
-                    <span className="icon"></span>
-                  </div>
-                  <img src="images/portfolio01.jpg" alt="portfolio-item" />
-                </a>
-              </div>
-              <div className="portfolio-item mobile">
-                <a data-rel="prettyPhoto" href="http://placehold.it/1140x550" >
-                  <div className="hover">
-                    <div className="title">
-                      title goes here
-                    </div>
-                    <span className="icon"></span>
-                  </div>
-                  <img src="images/portfolio02.jpg" alt="portfolio-item" />
-                </a>
-              </div>
               <div className="portfolio-item graphic">
-                <a data-rel="prettyPhoto" href="http://placehold.it/1140x550" >
+                <a data-rel="prettyPhoto" rel="noopener noreferrer" target="_blank" href="https://monikarangta.wordpress.com/" >
                   <div className="hover">
                     <div className="title">
-                      title goes here
+                      Logo for my personal blog
                     </div>
                     <span className="icon"></span>
                   </div>
-                  <img src="images/portfolio03.jpg" alt="portfolio-item" />
+                  <img src="images/Idle_hours_logo.png" alt="portfolio-item" />
                 </a>
               </div>
               <div className="portfolio-item website">
-                <a data-rel="prettyPhoto" href="http://placehold.it/1140x550" >
+                <a data-rel="prettyPhoto" rel="noopener noreferrer" target="_blank"  href="https://piggame.monikarangta.com/" >
                   <div className="hover">
                     <div className="title">
-                      title goes here
+                      Pig Game in Javascript
                     </div>
                     <span className="icon"></span>
                   </div>
-                  <img src="images/portfolio04.jpg" alt="portfolio-item" />
-                </a>
-              </div>
-              <div className="portfolio-item mobile website">
-                <a data-rel="prettyPhoto" href="http://placehold.it/1140x550" >
-                  <div className="hover">
-                    <div className="title">
-                      title goes here
-                    </div>
-                    <span className="icon"></span>
-                  </div>
-                  <img src="images/portfolio05.jpg" alt="portfolio-item" />
-                </a>
-              </div>
-              <div className="portfolio-item graphic website">
-                <a data-rel="prettyPhoto" href="http://placehold.it/1140x550" >
-                  <div className="hover">
-                    <div className="title">
-                      title goes here
-                    </div>
-                    <span className="icon"></span>
-                  </div>
-                  <img src="images/portfolio06.jpg" alt="portfolio-item" />
-                </a>
-              </div>
-              <div className="portfolio-item website mobile graphic">
-                <a data-rel="prettyPhoto" href="http://placehold.it/1140x550" >
-                  <div className="hover">
-                    <div className="title">
-                      title goes here
-                    </div>
-                    <span className="icon"></span>
-                  </div>
-                  <img src="images/portfolio07.jpg" alt="portfolio-item" />
-                </a>
-              </div>
-              <div className="portfolio-item website mobile graphic">
-                <a data-rel="prettyPhoto" href="http://placehold.it/1140x550" >
-                  <div className="hover">
-                    <div className="title">
-                      title goes here
-                    </div>
-                    <span className="icon"></span>
-                  </div>
-                  <img src="images/portfolio08.jpg" alt="portfolio-item" />
-                </a>
-              </div>
-              <div className="portfolio-item website mobile graphic">
-                <a data-rel="prettyPhoto" href="http://placehold.it/1140x550" >
-                  <div className="hover">
-                    <div className="title">
-                      title goes here
-                    </div>
-                    <span className="icon"></span>
-                  </div>
-                  <img src="images/portfolio09.jpg" alt="portfolio-item" />
+                  <img src="images/piggame.jpg" alt="portfolio-item" />
                 </a>
               </div>
             </div>
