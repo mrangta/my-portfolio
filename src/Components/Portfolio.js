@@ -41,7 +41,7 @@ class Portfolio extends Component {
                     </div>
                     <span className="icon"></span>
                   </div>
-                  <img src="images/piggame.jpg" alt="portfolio-item" />
+                  <img src="images/piggame.JPG" alt="portfolio-item" />
                 </a>
               </div>
             </div>
