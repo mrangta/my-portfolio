@@ -11899,12 +11899,13 @@ select.top-drop-menu {
       width: 100px;
       height: auto;
       padding: 10px;
-      background-color: #f0f0f1;
+      background-color: #008080 ;
+      color: #ffffff;
       top: 0px;
       left: 0;
    }
    #avatar-nav-holder .nav-link-holder > a:hover {
-      background-color: #008080;
+      background-color: #000000;
       color: #ffffff;
    }
    #avatar-nav-holder .nav-link-holder .line {
